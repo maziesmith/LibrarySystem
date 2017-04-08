@@ -1,0 +1,10 @@
+c:\users\khaled\documents\visual studio 2012\Projects\library system\library system\bin\library system.dll
+c:\users\khaled\documents\visual studio 2012\Projects\library system\library system\bin\library system.pdb
+c:\users\khaled\documents\visual studio 2012\Projects\library system\library system\obj\Debug\library system.csprojResolveAssemblyReference.cache
+c:\users\khaled\documents\visual studio 2012\Projects\library system\library system\obj\Debug\library system.dll
+c:\users\khaled\documents\visual studio 2012\Projects\library system\library system\obj\Debug\library system.pdb
+C:\Users\khaled hatab\Documents\Visual Studio 2012\Projects\library system\library system\bin\library system.dll
+C:\Users\khaled hatab\Documents\Visual Studio 2012\Projects\library system\library system\bin\library system.pdb
+C:\Users\khaled hatab\Documents\Visual Studio 2012\Projects\library system\library system\obj\Debug\library system.csprojResolveAssemblyReference.cache
+C:\Users\khaled hatab\Documents\Visual Studio 2012\Projects\library system\library system\obj\Debug\library system.dll
+C:\Users\khaled hatab\Documents\Visual Studio 2012\Projects\library system\library system\obj\Debug\library system.pdb
